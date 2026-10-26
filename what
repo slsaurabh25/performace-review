@@ -1,0 +1,17 @@
+Throughout 2026, I consistently contributed to key DB-SIS deliverables, focusing on business requirements, technical modernization, application stability, and continuous improvement while managing regular BAU responsibilities.
+
+**Key Contributions:**
+
+- **Business Delivery and Country Onboarding:** Contributed to onboarding new countries (NL, BE, CZ and HU) onto DB-SIS, collaborating with Payment and Control systems teams to align requirements, resolve integration dependencies, and support country-specific configurations and eligibility changes.
+
+- **Kafka Optimization:** Worked on Kafka partition rebalancing improvements across multiple services, including state-consolidator, response-processor, rest-api, data-ingestor and GCPS, with a focus on improving consumer stability, minimizing processing disruption, and enhancing application reliability.
+
+- **Technical Modernization and Security:** Contributed to Java and OSS upgrades, vulnerability remediation, SSL certificate renewals, and application enhancements, supporting platform security, maintainability, and technology modernization.
+
+- **Operational Excellence:** Supported production stability through BAU activities, issue investigation, troubleshooting, release preparation, and configuration improvements. Worked on MQ configurations, eligibility rules, and database-related changes to support ongoing business operations.
+
+- **Team Collaboration and Problem-Solving:** Collaborated with team members to analyze complex technical challenges, identify effective solutions, and support timely delivery of project commitments.
+
+- **Learning and Organizational Contribution:** Successfully completed the Deutsche Bank AI Engineer course to strengthen my knowledge of emerging technologies and actively participated in CSR activities, contributing beyond regular project responsibilities.
+
+Overall, I maintained a strong focus on delivering business priorities, supporting platform reliability, addressing technical challenges, and contributing to team success. I demonstrated accountability, adaptability, and a continuous improvement mindset throughout the year.
